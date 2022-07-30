@@ -39,7 +39,7 @@ When we press push button,It will turn the LED ON and when we press push button 
 ## The Code📝
 <img src="images/code.png" width="500"><br />
 
-## To simulate ⬇️
+## simulation⬇️
 ○ https://www.tinkercad.com/things/bBUjpHrvaaV
 
 
